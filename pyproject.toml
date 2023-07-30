@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "console-assistant"
+version = "0.1.0"
+description = ""
+authors = ["Ivan Ishchenko <lvan.lshchenko19.01@gmail.com>"]
+readme = "README.md"
+#packages = [{include = "console_assistant"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+prompt-toolkit = "^3.0.39"
+pyowm = "^3.3.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

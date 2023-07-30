@@ -1,0 +1,11 @@
+certifi==2023.7.22
+charset-normalizer==3.2.0
+geojson==2.5.0
+idna==3.4
+prompt-toolkit==3.0.39
+pyowm==3.3.0
+PySocks==1.7.1
+requests==2.31.0
+urllib3==2.0.4
+wcwidth==0.2.6
+zope.interface==6.0
